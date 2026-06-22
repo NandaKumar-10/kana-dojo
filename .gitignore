@@ -42,7 +42,6 @@
 /.commandcode/
 
 # editor settings (local-only)
-/.vscode/
 
 # debug
 npm-debug.log*
@@ -53,7 +52,6 @@ dev-output.log
 zizmor-report.json
 
 # env files (can opt-in for committing if needed)
-.env*
 
 # vercel
 .vercel
@@ -71,3 +69,4 @@ next-env.d.ts
 /public/sounds/**/*.wav
 /public/sounds/click/click9/
 .env*.local
+config.bat
